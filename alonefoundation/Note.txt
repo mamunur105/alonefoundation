@@ -1,0 +1,76 @@
+
+NEED To CHECK and compleate task list
+
+before live 
+1. remove redux unnesesary option 
+2. redux dev mode will be disable when all think will be done after live 
+3. NEWS SINGLE PAGE CHECK FOR FACEBOOK SHARING WHEN it WILL LIVE 
+4. check ajax 
+
+
+theme recently done 
+
+01. now need to change color to blue that is provide 
+02. customize logo option --------------------------------( done )
+03. catagory add ajaxify -----------------(i will check after project compleate )
+04. tomorrow sidebar and footer --------------------------( done ) 
+05. not found page and image change option redux ---------( done )
+06. search option and search page and not found page  ----( Done )
+07. project page -----------------------------------------( done )
+08. project single page ----------------------------------( done )
+09. project shortcode ------------------------------------( done )
+10. project shortcode to kc section-----------------------( done )
+11. event shortcode --------------------------------------( done )
+12. event kc shortcode -----------------------------------( done )
+13. logo from redux---------------------------------------( done )
+14. event shortcode post dynamic with meta box -----------( done )
+15. event single page dynamic ----------------------------( done )
+16. event metabox (start, end ,location map , speaker )---( done )
+17. event single page google calender  
+18. video_shortcode --------------------------------------( done )
+19. event location select metabox  -----------------------( done )
+20. event details page Book Online form
+ need to functional  ------------------------------( baki ase )
+21. event carosel shortcode ------------------------------( done ) 
+22. event carosel to kc ----------------------------------( done ) 
+23. banner dunamic ---------------------------------------( done )
+24. home slider/revolation sider intrigreate -------------( done )
+25. fetured section shortcode with kc --------------------( done )
+26. abouth section shortcode with Kc----------------------( done )
+27. Countet Up shortcode With Kc -------------------------( done )
+28. Project mini Slider shortcode With Kc-----------------( done )
+29. Project archive --------------------------------------( done )
+30. even archive With Taxonomy ---------------------------( done )
+31. even archive With Taxonomy ---------------------------( done )
+
+32. mesonory section need to work properly
+
+33... event details google calender option 
+theme recently done 
+
+01. customize logo option --------------------------------( done )
+02. catagory add ajaxify ---------------------------------( done )
+03. sidebar and footer --------------------------( done ) 
+04. not found page and image change option redux ---------( done )
+05. search option and search page and not found page  ----( Done )
+06. project page -----------------------------------------( done )
+07. project single page ----------------------------------( done )
+08. project shortcode ------------------------------------( done )
+09. project shortcode to kc section-----------------------( done )
+10. event shortcode --------------------------------------( done )
+11. event kc shortcode -----------------------------------( done )
+12. logo from redux---------------------------------------( done )
+13. event shortcode post dynamic with meta box -----------( done )
+14. event single page dynamic ----------------------------( done )
+15. event metabox (start, end ,location map , speaker )---( done )
+16. video_shortcode --------------------------------------( done )
+17. event location select metabox  -----------------------( done )
+18. event carosel shortcode ------------------------------( done ) 
+19. event carosel to kc ----------------------------------( done ) 
+20. banner dunamic ---------------------------------------( done )
+21. home slider/revolation sider intrigreate -------------( done )
+
+
+
+
+

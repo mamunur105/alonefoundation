@@ -1,0 +1,205 @@
+/*!
+Theme Name: AloneFoundation
+Theme URI: http://underscores.me/
+Author: Underscores.me
+Author URI: http://underscores.me/
+Description: Description
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: alonefoundation
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+AloneFoundation is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+.pagination-style .nav-links {
+    display: flex;
+}
+.pagination-style .page-numbers {
+    padding: 5px 20px;
+    background: #fff;
+    margin: 2px;
+}
+.pagination-style span.current {
+    background: #0ec4f7;
+    color: #fff;
+}
+
+.font-awosome-svg{
+	width: 13px;
+    line-height: 0;
+    display: inline-block;
+}
+/*.share-post-item .font-awosome-svg path {
+	fill: red;
+}*/
+.share-post-item.s-facebook .font-awosome-svg svg {
+    width: 10px;
+}
+.single-blog-post-navigation .prev-svg path,
+.single-blog-post-navigation .next-svg path{
+	fill: #fff;
+}
+.alone-project .font-awosome-svg path{
+    fill:#fff;
+}
+.alone-project .alone-project  .share-post-item {
+    padding: 8px;
+}
+.share-post-item .font-awosome-svg svg {
+    width: 20px;
+}
+.share-post-item .font-awosome-svg {
+    width: 20px;
+}
+.share-post-item:not(.s-facebook) .font-awosome-svg svg {
+    width: 15px;
+}
+.share-post-item.s-google-plus .font-awosome-svg svg {
+    width: 25px;
+}
+.alone-project .share-post-item.color-facebook .font-awosome-svg svg {
+    width: 10px;
+}
+.alone-project .share-post-item .font-awosome-svg svg {
+    width: 18px;
+}
+.alone-project .share-post-item.color-google-plus .font-awosome-svg svg {
+    width: 25px;
+}
+
+
+.alone-project{}
+.alone-project{}
+.alone-project{}
+.alone-project{}
+.alone-project{}
+.alone-project{}
+.alone-project{}
+.alone-project{}
+.prev-svg{
+    margin-right: 5px;
+}
+.next-svg{
+	margin-left: 5px;
+}
+.next-svg,
+.prev-svg {
+    width: 10px;
+}
+.pv-right span,
+.pv-left span{
+	line-height: 1.2;
+}
+.pv-right span{}
+/* post-views plugin css */
+
+/*.post-total-view span.post-views-icon {
+    display: none;
+}*/
+
+.post-total-view .post-views {
+    font-size: 13px;
+    line-height: 24px;
+}
+.post-total-view span.post-views-label {
+    margin-left: 5px;
+    float: right;
+}
+
+.widget-wrap form.search-form {
+    display: flex;
+}
+.widget-wrap input.search-field {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+.widget-wrap  span.screen-reader-text{
+    display: none;
+}
+.widget-wrap form.search-form label{
+    width: 100%;
+}
+.widget-wrap input.search-submit{
+    opacity: 0;
+    visibility: hidden;
+}
+.widget-wrap form.search-form label {
+    width: 100%;
+    flex: 0 0 100%;
+    margin: 0;
+}
+.widget-wrap .news-widget .c-content h6 a:hover {
+    color: rgba(28, 141, 173, 0.6392156862745098);
+}
+
+div#content {
+    width: 100%;
+    display: block;
+    overflow: hidden;
+}
+.no-results form.search-form {
+    display: flex;
+    flex: 1;
+}
+.no-results input.search-field {
+    width: 100%;
+    height: 50px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+.no-results span.screen-reader-text {
+    display: none;
+}
+.no-results form.search-form label {
+    width: 100%;
+}
+.no-results input.search-submit {
+    width: 100px;
+    padding: 0;
+    height: 50px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}
+
+
+.main-menu li:last-child a {
+    margin: 0;
+    color: #000;
+    background: rgba(255, 255, 0, 0.73);
+    transition: 0.4s ease;
+    line-height: 45px;
+    font-size: 16px;
+    font-family: 'Poppins';
+    letter-spacing: 0px;
+    font-style: normal;
+    font-weight: 500;
+    padding: 0px 22px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+}
+
+.admin-bar header.header.header-style-one {
+    top: 32px;
+}
+.admin-bar .header-bottom.main_h.sticky {
+
+    top: -48px;
+}
+
+/*mendatory css for the website . You can remove it */
+.sidebar-area .news-widget .c-content h6 a {
+    color: #000;
+}

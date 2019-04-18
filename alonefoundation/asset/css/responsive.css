@@ -1,0 +1,119 @@
+
+@media (min-width: 1200px){
+	
+
+}/*end @media (min-width: 1200px){*/
+
+@media (max-width: 1199px){
+
+}/*end @media (max-width: 1199px){*/
+
+
+@media (min-width: 992px){
+
+}/*@media (min-width: 992px){*/
+
+@media (max-width: 991px){
+	section.section-about {
+	    padding: 50px 0;
+	}
+	.cta-content {
+	    padding: 0 15px;
+	}
+	ul.main-menu li a {
+	    padding: 11px 14px;
+	    font-size: 13px;
+	}
+	button.give-btn.give-btn-modal {
+	    line-height: 45px;
+	    font-size: 12px;
+	    padding: 0px 15px;
+	}
+	.widget-wrap {
+    	margin-bottom: 50px;
+	}
+	footer.footer-area {
+	    padding-bottom: 0;
+	}
+	.banner-one {
+	    min-height: 330px;
+	}
+}/*@media (max-width: 992px){*/
+
+
+@media (max-width: 767px){
+	.counter-wrape {
+	    max-width: 300px;
+	    margin: 25px auto;
+	}
+	.single.event-wrape {
+	    padding-bottom: 50px;
+	}
+	header.header {
+	    position: relative;
+	    top: 0;
+	}
+	.mobole-menu {
+	    padding: 20px 0;
+	}
+	.c-button {
+	    padding: 10px 24px;
+	}
+	ul.c-menu__items {
+    	padding: 20px;
+	}
+	ul.c-menu__items li {
+	    margin-bottom: 10px;
+	}
+	ul.c-menu__items li a{
+	    color: #fff;
+	}
+	header.header.header-style-one {
+	    position: relative;
+	    top: 0;
+	    z-index: 1;
+	}
+	.event-featured-image-wrap.style-2 {
+	    margin-bottom: 50px;
+	}
+	.event-featured-image-wrap.style-2:after{
+		content: none;
+	}
+
+	.event-page .row.align-items-center.pdb-50 {
+	    padding-bottom: 0;
+	}
+	section.banner-one .row.align-items-center.mt-70 {
+	    margin-top: 0;
+	}
+	.post-carosel .post-caption {
+    	padding: 10px 10px 70px 15px;
+	}
+	h2.primary-heading {
+	    font-size: 25px;
+	}
+	.post-single-entry-header .share-post-item {
+	    border-width: 1px;
+	}
+	.post-single-entry-header .share-post-wrap {
+	    width: auto;
+	    margin-bottom: 30px;
+	}
+	.post-sing-image-background {
+	    padding: 80px 20px;
+	}
+	.heading-entry-wrap h2.post-title {
+	    font-size: 25px;
+	}
+	.heading h2 {
+	    font-size: 25px;
+	}
+
+}/*end @media (max-width: 767px){*/
+
+@media (max-width: 576px){
+	.cta-content {
+	    padding: 25px 15px;
+	}
+	
+}/*end @media (max-width: 576px){*/
